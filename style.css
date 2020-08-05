@@ -1,0 +1,117 @@
+	
+body{
+  margin: 0px;	
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+  background-color: #f4f4f4;
+}
+h1{
+    font-family: lobster;
+    color: white;
+    font-weight: lighter;
+    font-size: 90px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    justify-content: center;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.7)
+}
+
+h2 {
+  font-family: Helvetica;
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+h3 {
+  font-family: lobster;
+  color: orange;
+  font-size: 35px;
+  text-align: center;
+  font-weight: lighter;
+
+}
+
+.card-text {
+  font-family: roboto;
+  color: black;
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+
+}
+
+#banner {
+	  background-image: url('https://images.unsplash.com/photo-1509565118126-4f0ff5aec05d?ixlib=rb-1.2.1&auto=format&fit=crop&w=819&q=80');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    background-color: black;
+    color: white;
+    margin: 0PX 10px 10px;
+    padding: 40PX 30PX ;
+    border:  1PX SOLID black;
+    border-radius:  0%;
+    box-shadow:  3PX 3PX 4PX black;
+    align-items: center;
+    height: 600px;
+}	
+
+.btn {
+    font-size: 25px;
+    size: 50px;
+    justify-content: center;
+    margin-top: 10px; 
+}    
+
+#footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+#footer a {
+  color: rgba(200,200,200);
+  padding-top: 20px;
+  font-size: 30px;
+
+}
+
+#footer a:hover {
+  color: white;
+
+}
+
+.avatar {
+  width: 90px;
+  border-radius: 50%;
+}
+
+.avatar-large {
+  width: 90px;
+  border-radius: 50%;
+}
+
+.avatar-bordered {
+  width: 90px;
+  border-radius: 50%;
+}
+
+#avatars {
+ margin-bottom: 30px;
+}  
+
+h5 {
+  font-family: roboto;
+  font-size: 40px;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 10px;
+
+}
+
